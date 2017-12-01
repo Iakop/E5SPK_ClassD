@@ -13,3 +13,4 @@ Class D Amplifier project for the 5th semester course, Switched Power Circuits. 
 - IPD180N10N3 - 43A 100V 33mΩ MOSFET DPAK
 - BZX84C5V6 - 5.6V Zener Diode
 - LM833 - Dual Audio OpAmp
+- IES101-4 - TRS Jack connector
