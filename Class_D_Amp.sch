@@ -2077,8 +2077,6 @@ F 3 "" H 6750 2925 50  0000 C CNN
 	1    6750 2925
 	-1   0    0    1   
 $EndComp
-Entry Wire Line
-	3975 1825 4075 1925
 $Comp
 L CONN_01X04 P3
 U 1 1 5A326046
