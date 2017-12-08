@@ -14,3 +14,4 @@ Class D Amplifier project for the 5th semester course, Switched Power Circuits. 
 - BZX84C5V6 - 5.6V Zener Diode
 - LM833 - Dual Audio OpAmp
 - IES101-4 - TRS Jack connector
+- ECA1HM222 - Electorlytic 2200uF Capacitor against supply pumping
