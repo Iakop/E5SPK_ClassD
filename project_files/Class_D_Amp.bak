@@ -28,7 +28,35 @@ LIBS:opto
 LIBS:atmel
 LIBS:contrib
 LIBS:valves
+LIBS:4000-ic
+LIBS:7400-ic
+LIBS:analog-ic
+LIBS:avr-mcu
+LIBS:bluegiga
+LIBS:connector
+LIBS:crystals
+LIBS:diode-inc-ic
 LIBS:e5spk
+LIBS:freescale-ic
+LIBS:ftdi-ic
+LIBS:iakop_commons
+LIBS:led
+LIBS:maxim-ic
+LIBS:micrel-ic
+LIBS:microchip-ic
+LIBS:nxp-ic
+LIBS:on-semi-ic
+LIBS:regulator
+LIBS:rohm
+LIBS:sharp-relay
+LIBS:shield_arduino
+LIBS:sparkfun
+LIBS:standard
+LIBS:stmicro-mcu
+LIBS:tft_displays
+LIBS:ti-ic
+LIBS:transistor
+LIBS:uln-ic
 LIBS:Class_D_Amp-cache
 EELAYER 25 0
 EELAYER END
@@ -2114,7 +2142,7 @@ F 1 "100u" H 6885 1495 50  0000 L CNN
 F 2 "Capacitors_ThroughHole:CP_Radial_D6.3mm_P2.50mm" H 6875 1575 50  0001 C CNN
 F 3 "" H 6875 1575 50  0000 C CNN
 	1    6875 1575
-	-1   0    0    1   
+	1    0    0    -1  
 $EndComp
 Text Label 6875 1475 2    60   ~ 0
 VSS+12V
