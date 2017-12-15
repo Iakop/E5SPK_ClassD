@@ -2207,4 +2207,12 @@ $EndComp
 Wire Wire Line
 	9550 5400 9550 5425
 Connection ~ 9550 5400
+Text Label 9425 2625 0    60   ~ 0
+ROUT
+Text Label 9425 5400 0    60   ~ 0
+LOUT
+Text Label 8500 5400 0    60   ~ 0
+LNODE
+Text Label 8500 2625 0    60   ~ 0
+RNODE
 $EndSCHEMATC
