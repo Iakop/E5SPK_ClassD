@@ -63,12 +63,12 @@ EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
 Sheet 1 1
-Title ""
-Date ""
-Rev ""
-Comp ""
-Comment1 ""
-Comment2 ""
+Title "Class D Amp"
+Date "2017-12-22"
+Rev "1"
+Comp "Aarhus Universitet Herning"
+Comment1 "Jacob Bechmann Pedersen "
+Comment2 "Mikkel Bjerg Petersen"
 Comment3 ""
 Comment4 ""
 $EndDescr
